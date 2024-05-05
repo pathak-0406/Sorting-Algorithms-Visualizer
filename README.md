@@ -1,5 +1,6 @@
 # Sorting-Algorithms-Visualizer
 This is the project that based on sorting techniques & gives a better understanding about the sorting.
+
 Features
 1. Algorithm Selection
 2. Select size of Array
