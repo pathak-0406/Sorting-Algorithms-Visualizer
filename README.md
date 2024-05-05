@@ -6,10 +6,10 @@ Features
 2. Select size of Array
 3. Select speed of execution
 
-Algorithms
-
-1.Bubble Sort
-2.Selection Sort
-3.Insertion Sort
-4.Merge Sort
-5.Quick Sort 
+Algorithm   
+1. Bubble Sort
+2. Selection Sort
+3. Merge Sort
+4. Quick Sort
+5. Insertion Sort
+ 
